@@ -29,28 +29,6 @@
 - [ ] [Balancing Product and Technology](https://dev.actualbudget.com/balancing-product-technology/)
 - [ ] [How Programmers and Testers (and Others) Should Collaborate on User Stories](https://www.mountaingoatsoftware.com/blog/how-programmers-and-testers-and-others-should-collaborate-on-user-stories)
 
-### 🤓 Functional Programming
-
-- [ ] [Functional Programming: Alternatives to the If](https://hackernoon.com/functional-programming-alternatives-to-the-if-functional-javascript-8804905db43e)
-- [ ] [μ — blog of Michael Hurley](http://buzzdecafe.github.io/)
-- [ ] [evilsoft/crocks](https://github.com/evilsoft/crocks)
-- [ ] [Safer JavaScript with the Maybe type](https://egghead.io/lessons/javascript-course-introduction-safer-javascript-with-the-maybe-type)
-- [ ] [Maybe Better Reducers](http://vvgomes.com/better-reducers/)
-- [ ] [Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
-- [ ] [Functional Programming In JavaScript — With Practical Examples](https://medium.freecodecamp.org/functional-programming-in-js-with-practical-examples-part-1-87c2b0dbc276)
-- [ ] [Professor Frisby Introduces Composable Functional JavaScript](https://egghead.io/lessons/javascript-linear-data-flow-with-container-style-types-box)
-- [ ] [Kleisli Compositions in JavaScript](https://medium.com/@luijar/kliesli-compositions-in-javascript-7e1a7218f0c4)
-- [ ] [kleisli](https://glebbahmutov.com/blog/kleisli)
-- [ ] [lenses](https://github.com/calmm-js/partial.lenses)
-- [ ] [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon)
-- [ ] [Fantasy Land type for React Components](https://github.com/xaviervia/react-dream)
-- [ ] [Fantasy Land Styling](https://github.com/jongold/further)
-- [ ] [JavaScript Monads Made Simple](https://medium.com/javascript-scene/javascript-monads-made-simple-7856be57bfe8)
-- [ ] [Functional programming: Monads made clear - in javascript](http://blog.klipse.tech/javascript/2016/08/31/monads-javascript.html)
-- [ ] [Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/ch8.html)
-- [ ] [Monads in JavaScript](https://curiosity-driven.org/monads-in-javascript)
-- [ ] [The Marvellously Mysterious Javascript Maybe Monad](https://jrsinclair.com/articles/2016/marvellously-mysterious-javascript-maybe-monad/)
-
 ### 🎨 Design
 
 - [ ] [Here is how UX Design Integrates with Agile and Scrum](https://medium.com/swlh/here-is-how-ux-design-integrates-with-agile-and-scrum-4f3cf8c10e24)
@@ -141,22 +119,56 @@
 - [ ] [DevTool Layers Panel](https://www.youtube.com/watch?v=6je49J67TQk&list=PLNYkxOF6rcIBz9ACEQRmO9Lw8PW7vn0lr&index=1)
 - [ ] [Improving Web App Performance With the Chrome DevTools Timeline and Profiles](https://addyosmani.com/blog/performance-optimisation-with-timeline-profiles/)
 
-### 👨🏽‍🏫 Math
+### 🤖 Wannabe ML God
 
-- [ ] [Flow Fields](https://www.bit-101.com/blog/2017/10/flow-fields-part-i)
-- [ ] [Fourier Series Visualization](http://www.ajimatics.com/entry/2016/02/07/020932)
-- [ ] [Explorables](http://explorabl.es)
-- [ ] [Better Explained](https://betterexplained.com)
-- [ ] [How Generative Music Works](https://teropa.info/loop/#/systemdefinition)
-- [ ] [Math for Motion](https://soulwire.co.uk/math-for-motion/)
-- [ ] [Sketching with Math and Quasi Physics](https://kynd.github.io/p5sketches/index.html)
-- [ ] [Easing Equations](http://gizma.com/easing/#quad2)
-- [ ] [Find five positive integers whose reciprocals sum to 1](https://math.stackexchange.com/questions/290435/find-five-positive-integers-whose-reciprocals-sum-to-1)
-- [ ] [Almost Equilaterial Heronian Triangles](https://codegolf.stackexchange.com/questions/26099/almost-equilaterial-heronian-triangles)
-- [ ] [Why can you turn clothing right-side-out?](https://math.stackexchange.com/questions/2755/why-can-you-turn-clothing-right-side-out)
-- [ ] [square sums](http://visualizingmath.tumblr.com/post/101381791426/twocubes-anewkindofmagic-twocubes)
-- [ ] [Graham's number expressed using xkcd's “Knuth Paper-Stack Notation”](https://math.stackexchange.com/questions/565714/grahams-number-expressed-using-xkcds-knuth-paper-stack-notation)
-- [ ] [No BS guide to Math and Physics](https://nobsgui.de/to/MATHandPHYSICS/)
-- [ ] [Singular Sensations](https://opinionator.blogs.nytimes.com/2012/09/10/singular-sensations/)
-- [ ] [Simplex](https://news.ycombinator.com/item?id=9757946)
-- [ ] [Benford's Law](https://en.wikipedia.org/wiki/Benford's_law)
+- [ ] 100 page ml book
+- [ ] https://github.com/trekhleb/homemade-machine-learning
+- [ ] https://physics.bu.edu/~pankajm/MLnotebooks.html
+- [ ] https://www.youtube.com/playlist?list=PLOU2XLYxmsIKGc_NBoIhTn2Qhraji53cv
+- [ ] https://github.com/wuweiweiwu/100-Days-Of-ML-Code
+- [ ] https://github.com/afshinea/stanford-cs-229-machine-learning
+- [ ] Google ML course
+- [ ] Udemy DS courses
+
+### 📖 Books
+
+- [ ] min jin lee
+- [ ] chang rae lee
+- [ ] haruki murakami
+- [ ] pachinko
+- [ ] celeste ng
+- [ ] Lolita
+- [ ] https://www.google.com/aclk?sa=L&ai=DChcSEwjGvdOeoI_gAhUuHq0GHRu3AncYABADGgJwdg&sig=AOD64_0gIm7Hrwfm9jHPAyZpgQtwX_t0yQ&ctype=5&q=&ved=0ahUKEwi83cueoI_gAhXLxVQKHUyOA3cQwg8IMw&adurl=
+
+### 🇹🇼 To Be Categorized
+
+- [ ] https://github.com/shashank88/system_design
+- [ ] https://github.com/kentcdodds/react-testing-library
+- [ ] https://bitsofco.de/what-exactly-is-the-dom/
+- [ ] https://github.com/cssinjs/jss
+- [ ] https://github.com/denysdovhan/wtfjs#-motivation
+- [ ] https://link.medium.com/Dk2d0PfobS
+- [ ] https://github.com/sw-yx/react-typescript-cheatsheet
+- [ ] http://reactpatterns.com/
+- [ ] https://www.webcomponents.org/introduction
+- [ ] https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/
+- [ ] https://github.com/bradfrost/atomic-design
+- [ ] https://addyosmani.com/resources/essentialjsdesignpatterns/book/#introduction
+- [ ] http://gameprogrammingpatterns.com/contents.html
+- [ ] https://github.com/jamiebuilds/babel-handbook
+- [ ] https://github.com/getify/You-Dont-Know-JS
+- [ ] https://github.com/30-seconds/30-seconds-of-code
+- [ ] https://github.com/ampproject/amphtml
+- [ ] https://developers.google.com/web/fundamentals/
+- [ ] https://github.com/adam-golab/react-developer-roadmap
+- [ ] https://github.com/acdlite/react-fiber-architecture
+- [ ] https://github.com/jamiebuilds/itsy-bitsy-data-structures
+- [ ] https://reactjs.org/docs/implementation-notes.html
+- [ ] https://github.com/piotrwitek/react-redux-typescript-guide
+- [ ] https://github.com/wuweiweiwu/Front-End-Performance-Checklist
+- [ ] https://github.com/wuweiweiwu/examples
+- [ ] https://github.com/wuweiweiwu/InterviewMap
+- [ ] https://github.com/alex/what-happens-when
+- [ ] https://eng.uber.com/fusionjs/
+- [ ] https://github.com/g-plane/tiny-package-manager
+- [ ] Go through https://github.com/electron/electron-api-demos
