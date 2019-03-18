@@ -176,3 +176,4 @@
 - [ ] Dan Abramov's blog https://overreacted.io/
 - [ ] http://principlesofchaos.org/
 - [ ] https://gist.github.com/threepointone/731b0c47e78d8350ae4e105c1a83867d
+- [ ] deck.gl https://medium.com/vis-gl/rendering-a-minecraft-world-with-deck-gl-927b52c5c6db
