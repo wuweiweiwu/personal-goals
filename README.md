@@ -36,6 +36,7 @@
 - [ ] [How I Work With Colour](https://medium.com/@JustinMezzell/how-i-work-with-color-8439c98ae5ed)
 - [ ] [A Five-Minute Guide to Better Typography](https://www.pierrickcalvez.com/journal/a-five-minutes-guide-to-better-typography)
 - [ ] [Butterick's Practical Typography](https://practicaltypography.com)
+- [ ] [Software -> product design](https://medium.com/@michelle_chiu/how-i-left-software-engineering-to-become-a-product-designer-in-a-year-92923f95d6e4)
 
 ### 📐✏️ Design Systems
 
